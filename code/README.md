@@ -1,2 +1,2 @@
-# dataset_ufo
-End of Week 12 GitHub Assignment
+# dataset_imdb/code
+Web scraping code used to create the dataset.
